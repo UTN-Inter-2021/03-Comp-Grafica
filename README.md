@@ -1,1 +1,2 @@
-# 03-Comp-Grafica
+# Encuentro 03-Computación-Gráfica
+## Ejemplos:
